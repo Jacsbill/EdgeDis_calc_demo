@@ -15,7 +15,7 @@ Publication Year: 2023
 
 Description: This data set contains behavioural and EEG output data from one experiment. It also includes pre-processing and analysis scripts, scripts used for running the experiment. 
 
-Cite as: Billington (2023): University of Leeds. [Dataset] https://doi.org/10.5518/1354 
+Cite as: Billington (2023): University of Leeds. 
 
 Related publication: Intended to Proceedings of the Royal Society B August 2023. Data upload required before article submission. 
 

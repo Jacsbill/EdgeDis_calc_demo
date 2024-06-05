@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EdgeDis_calc
+message: 'Ifyou use these files, please cite as below.'
+type: software
+authors:
+  - given-names: Jac
+    family-names: Billington
+    email: j.billington@leeds.ac.uk
+    affiliation: 'University of Leeds '
+    orcid: 'https://orcid.org/0000-0003-0995-8875'
+identifiers:
+  - type: url
+    value: 'https://github.com/Jacsbill/EdgeDis_calc_demo'
+    description: Source Code
+repository-code: 'https://github.com/Jacsbill/EdgeDis_calc_demo'
+abstract: >-
+  This software calculates Edge Disruption on the basis of
+  xxx paper 
+version: '1'
+date-released: '2024-06-05'
